@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    padding:0;
+    font-size:18px;
+}
+
+.conteudo {
+    margin-top: 50px;
+}
+
+.title{
+    text-align:center;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.description{
+    margin-top:80px;
+    font-size:20px;
+}
+
+footer{
+    margin-top:20px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+}
+
+#venus{
+    width: 120px;
+    height: 120px;
+    margin-top: 350px;
+}
+
+
+
+#rocket{
+    margin-top: 150px;
+    width: 180px;
+    height: 180px;
+}
+
+#terra{
+    height: 220;
+    width: 220px;
+}
+
+#formulario{
+    position: relative;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#astronauta{
+    width: 30px;
+    height: 30px;
+}
